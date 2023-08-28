@@ -27,7 +27,6 @@ let employeeSchema=Joi.object({
 
 
 
-
 let addEmployee=async (req,res,next)=>{
     try {
         
